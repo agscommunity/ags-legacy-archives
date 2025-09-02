@@ -6,7 +6,7 @@ The rest of the legacy versions can be downloaded through the AGS Archives torre
 
 * [files\ags_24b.zip](https://raw.githubusercontent.com/edmundito/ags-legacy-archives/refs/heads/main/files/ags_24b.zip) - AGS 2.4b: The last version with a DOS Editor.
 * [files\ags_262.zip](https://raw.githubusercontent.com/edmundito/ags-legacy-archives/refs/heads/main/files/ags_262.zip) - AGS 2.62: The last Windows-based editor that can create DOS games.
-* [files\ags_272.zip](https://raw.githubusercontent.com/edmundito/ags-legacy-archives/refs/heads/main/files/ags_272.zip) - AGS 2.72: The last 2.x release.
+* [files\ags_272.zip](https://raw.githubusercontent.com/edmundito/ags-legacy-archives/refs/heads/main/files/ags_272.zip) - AGS 2.72: The last 2.x release. This version does not support DOS games.
   
 ## Running in DOS
 
