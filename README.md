@@ -11,7 +11,7 @@ The rest of the legacy versions can be downloaded through the AGS Archives torre
 ## Running in DOS
 
 * Use [DOSBox](https://www.dosbox.com)
-* To edit scripts in AGS 2.4b, get a install text editor in DOSBox like `edit.exe` ([Download from the Internet Archive](https://archive.org/details/ms-dos-editor))
+* To edit scripts in AGS 2.4b, install a text editor in DOSBox such as `edit.exe` ([Download from the Internet Archive](https://archive.org/details/ms-dos-editor))
 
 ## Need help?
 
