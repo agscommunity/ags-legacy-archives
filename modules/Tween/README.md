@@ -4,7 +4,7 @@ This is a customized version of the [AGS Tween module](https://github.com/edmund
 
 ## Installation
 
-AGS 2.6.2 does not support modules, but instead you can copy and paste the snippets below into the global script.
+AGS 2.62 does not support the concept of modules, but instead you can copy and paste the snippets below into the global script.
 
 1. Copy and paste the contents of [header.ash](./header.ash) at the top of the script header.
 
