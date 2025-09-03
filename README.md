@@ -11,11 +11,19 @@ The rest of the legacy versions can be downloaded through the AGS Archives torre
 ## Running in DOS
 
 * Use [DOSBox](https://www.dosbox.com)
-* To edit scripts in AGS 2.4b, install a text editor in DOSBox such as `edit.exe` ([Download from the Internet Archive](https://archive.org/details/ms-dos-editor))
+* To edit scripts in AGS 2.31, install a text editor in DOSBox such as `edit.exe` ([Download from the Internet Archive](https://archive.org/details/ms-dos-editor))
 
 ## Need help?
 
 * RTFM! Read the manual provided in the archive, particularly the "Getting Started" section.
 * Ask in `#retro_gamedev` in the [AGS Discord](https://discord.com/channels/221047797292597249/1412451171964289214)
 * Ask in [the AGS Forums](https://www.adventuregamestudio.co.uk/forums/beginners-technical-questions/)
-* Github user? Ask in the [Discussions section](https://github.com/agscommunity/ags-legacy-archives/discussions)
+
+## Contributing
+
+If you're interested in back-porting modules so that they are compatible with older versions of AGS, particularly 2.62:
+
+* Review the [./modules/README](./modules/README.md) file on how to setup a module.
+* If you're comfortable with Git and Github, you can fork and create a pull request
+* If you're a Git/Github user and also an established AGS community member, DM [edmundito](https://www.adventuregamestudio.co.uk/forums/profile/edmundito/) in the forum and he can add you as a contributor to this repo.
+* You can also share your work by creating an [Issues](https://github.com/agscommunity/ags-legacy-archives/issues) with the source files.
