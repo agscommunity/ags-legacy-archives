@@ -21,9 +21,9 @@ In general, 2.62 **does not support** the following features:
 
 ## Workarounds
 
-## Boolean
+### Boolean
 
-If your module uses `bool` but you don't want to change it, you can declare this at the top of the script header or global script:
+If your module uses `bool` but you don't want to change it, you can "modernize" it by declaring these at the top of the script header or global script:
 
 ```agsscript
 #define bool int
@@ -31,7 +31,7 @@ If your module uses `bool` but you don't want to change it, you can declare this
 #define false 0
 ```
 
-## Enumerations
+### Enumerations
 
 While `enum` is not supported, you can re-define your existing enums with `#define`:
 
@@ -51,7 +51,7 @@ import function f(BlockingStyle style);
 #define eNoBlock 1
 ```
 
-## Structs
+### Structs
 
 Declaring `structs` is supported in AGS 2.62  although it is not documented officially.
 
@@ -82,7 +82,7 @@ int GetPointY(int index){
 
 ```
 
-## Floating point
+### Floating point
 
 `float` is not available in AGS 2.62. The best way to work around it is to multiply and then divide by some amount to simulate decimal places as tenths and hundreds, or to work in the hundreds instead:
 
