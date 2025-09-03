@@ -88,7 +88,7 @@ int GetPointY(int index){
 
 ```agsscript
 // result = 0 to 100 instead of 0.0, 1.0;
-int percentage = amount * 1000 / max;
+int percentage = amount * 100 / max;
 ```
 
 You can also divide by a large amount (100 or 1000 depending on decimal places). For example, the Lerp function in the Tween module returns the value between from and to based on the amount of time that has passed (from 0 to 1.0). In the AGS 2.62 version, result is the same but the amount is increased from 0 to 100.
